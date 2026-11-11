@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+
+# Local databases and secrets
+*.db
+*.sqlite
+*.sqlite3
+.env
+
+# Java / Maven
+target/
+*.class
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
